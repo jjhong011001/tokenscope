@@ -155,7 +155,7 @@ Download and run the pre-built executable — no Node.js, Rust, or build steps r
 
 | Platform / 平台 | Download / 下载 |
 |---|---|
-| Windows (.exe) | [token-cost-analyzer-windows.exe](https://github.com/jjhong011001/tokenscope/releases/download/v0.3.3/token-cost-analyzer-windows.exe) |
+| Windows (.exe) | [tokenscope.exe](https://github.com/jjhong011001/tokenscope/releases/download/v0.3.3/tokenscope.exe) |
 
 > macOS users: build from source with `npm run tauri build`. See [macOS build guide](docs/guides/macos-build.md).  
 > macOS 用户请从源码构建，参考 [macOS 构建指南](docs/guides/macos-build.md)。

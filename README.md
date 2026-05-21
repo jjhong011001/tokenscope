@@ -148,6 +148,20 @@ npm run tauri build
 
 ---
 
+## Downloads / 直接下载
+
+Download and run the pre-built executable — no Node.js, Rust, or build steps required.  
+下载预构建的可执行文件即可运行，无需安装 Node.js、Rust 或执行构建步骤。
+
+| Platform / 平台 | Download / 下载 |
+|---|---|
+| Windows (.exe) | [token-cost-analyzer-windows.exe](https://github.com/jjhong011001/tokenscope/releases/download/v0.3.3/token-cost-analyzer-windows.exe) |
+
+> macOS users: build from source with `npm run tauri build`. See [macOS build guide](docs/guides/macos-build.md).  
+> macOS 用户请从源码构建，参考 [macOS 构建指南](docs/guides/macos-build.md)。
+
+---
+
 ## Privacy / 隐私与本地优先
 
 TokenScope reads local log files and writes normalized results into a local SQLite database. It does not require a hosted backend or a cloud account to be useful.  

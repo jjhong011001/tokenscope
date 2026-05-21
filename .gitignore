@@ -26,3 +26,6 @@ dist-ssr
 # Claude Code local config (contains permissions, local paths)
 .claude/
 MEMORY.md
+
+# Local release binaries (uploaded to GitHub Releases instead)
+releases/
